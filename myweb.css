@@ -330,7 +330,7 @@ border: 1px solid black;
 	text-align: center;
 	width:98%;
 	height: auto;
-	display:inline-flex;
+	display:flex;
 	
 	}
 
